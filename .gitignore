@@ -8,5 +8,4 @@ internal_filesystem/SDLPointer_2
 # config files etc:
 internal_filesystem/data
 
-config.bat
 node_modules
